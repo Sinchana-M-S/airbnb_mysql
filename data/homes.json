@@ -1,0 +1,82 @@
+[
+  {
+    "houseName": "Impana",
+    "price": "1200",
+    "location": "Mysuru",
+    "rating": "4.5",
+    "photoUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1415563776108378624/original/8d7eaabf-bfc0-41b7-9f5b-d9cc01b90774.jpeg",
+    "id": "2"
+  },
+  {
+    "id": "3",
+    "houseName": "Aarya",
+    "price": "1500",
+    "location": "Tumkur",
+    "rating": "3.8",
+    "photoUrl": "https://a0.muscache.com/pictures/miso/Hosting-990175493787107256/original/e5bdf7a7-bdb3-4eb1-896a-79eddc1452ed.jpeg"
+  },
+  {
+    "id": "4",
+    "houseName": "Anantha",
+    "price": "3000",
+    "location": "Kodagu",
+    "rating": "5",
+    "photoUrl": "https://a0.muscache.com/im/pictures/71a9c06f-a52a-49a0-9c66-586c584aaf2a.jpg?im_w=720"
+  },
+  {
+    "houseName": "Samriddhi",
+    "price": "1200",
+    "location": "Chikkamagaluru",
+    "rating": "4.5",
+    "photoUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM1Nzg1NDM1NDY2NjgyMzQzNg==/original/b21a23d8-676f-4fce-8c5c-eba3ed79cb53.jpeg",
+    "id": "0.2642604419902095"
+  },
+  {
+    "houseName": "Surabhi",
+    "price": "2300",
+    "location": "Sakleshpura",
+    "rating": "4.2",
+    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfk_s36YiLmg-nh3886v_-rH_o3PgQK3-7IA&s",
+    "id": "0.21115927604024676"
+  },
+  {
+    "houseName": "Ananda",
+    "price": "3000",
+    "location": "Hassan",
+    "rating": "4",
+    "photoUrl": "https://q-xx.bstatic.com/xdata/images/hotel/max500/447852588.jpg?k=2d4c60e61ded397b0d4a8e44d051a2953c206c95aa21a5a743cc44b52aeed4d5&o=",
+    "id": "0.07843622413940321"
+  },
+  {
+    "houseName": "Nanasu",
+    "price": "1600",
+    "location": "Shivamogga",
+    "rating": "3.8",
+    "photoUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1054276363322895209/original/d0c16fd4-3ce0-4f98-8fc5-d71454ec0533.jpeg?im_w=720",
+    "id": "0.4868491844505858"
+  },
+  {
+    "houseName": "Hasiru",
+    "price": "1400",
+    "location": "Mangalore",
+    "rating": "4.8",
+    "photoUrl": "https://www.holidify.com/images/cmsuploads/compressed/f13a4c71-ab12-49f1-b189-fef7682773c6_20221125035331.jpg",
+    "id": "0.9710605705427127"
+  },
+  {
+    "houseName": "Sharadhi",
+    "price": "2000",
+    "location": "Sagara",
+    "rating": "4.7",
+    "photoUrl": "https://q-xx.bstatic.com/xdata/images/hotel/max500/362818405.jpg?k=a56cb63334bff209cc77c436182dd25aaf832f40e3281beba4bcb0698302b217&o=",
+    "id": "0.47800839557315666"
+  },
+  {
+    "houseName": "Uthsav",
+    "price": "1600",
+    "location": "Banglore",
+    "rating": "4.3",
+    "photoUrl": "https://a0.muscache.com/im/pictures/e18ecf62-35c8-4642-8964-d025d12cd757.jpg?im_w=720",
+    "id": "0.10673278554067789"
+  }
+]
